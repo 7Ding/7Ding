@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+I'm beginner. So I don't know many functions of github well.
+I hope to learn github and my skill will be better.
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
